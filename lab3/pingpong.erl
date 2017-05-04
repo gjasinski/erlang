@@ -1,0 +1,2 @@
+-module(pingpong).
+-author("gjasinski").
